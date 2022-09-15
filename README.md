@@ -6,6 +6,6 @@ I am learning how to create branches and use GitHub
 
 A brand new change to my ReadMe file
 
-#ReadMe file
+# ReadMe file
 
 This is the ReadMe file on Github! 
